@@ -1,0 +1,90 @@
+html, body {
+ margin: 0;
+}
+
+header {
+  text-align: center;
+  background-color: #E1E5FE;
+  width: 100%;
+  padding: 20px;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+}
+
+h3{
+  font-size: 15px;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  text-align: center;
+}
+#main {
+  max-width: 800px;
+  margin: 0 auto 50px auto;  
+}
+
+#tribute-info {
+  text-align: justify;
+  text-indent: 15px;
+  font-famile: "Helvetica Neue", Arial, sans-serif;
+}
+
+figure {
+  text-align: center;
+  width: 100%;
+  margin: 0;
+  margin-top: 10px;
+  padding-top: 5px;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+
+figcaption {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  padding: 5px;
+  margin-bottom: 5px;
+}
+blockquote {
+  font-style: italic;
+  text-align: left;
+  background-color: #FBEAEA;
+}
+#afterlife {
+  text-align: justify;
+  padding-top: 10px;
+}
+#readmore {
+  text-align: left;
+  padding-top: 10px;
+}
+a {
+  color: grey;
+}
+a:hover {
+  color: red;
+}
+
+a:visited {
+  color: lightred;
+}
+
+#icons {
+  position: relative;
+  left: 45%;
+}
+#fact-icon {
+  font-size: 15px;
+}
